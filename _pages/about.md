@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>556 your office number</p>
+    <p>Celestijnenlaan 300</p>
+    <p>3001 Leuven, Belgium</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
