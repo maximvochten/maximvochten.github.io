@@ -1,11 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Sumo Robot Competition
+description: a project with a background image
+img: assets/img/1.jpg
+importance: 3
 category: work
+related_publications: einstein1956investigations, einstein1950meaning
 giscus_comments: true
+redirect:  #url
 ---
 
 Every project has a beautiful feature showcase page.
