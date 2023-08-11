@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Maxim Vochten
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd August 1990
     - name: Languages
-      value: English, German
+      value: Dutch, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: KU Leuven, Leuven, Belgium
+      year: 2018
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,19 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    - title: Master in Engineering Sciences
+      institution: KU Leuven, Leuven, Belgium
       year: 1900
       description:
         - Description 1.
         - Description 2.
+    - title: Bachelor in Engineering Sciences
+      institution: KU Leuven, Leuven, Belgium
+      year: 
+      description:
+      	- Description 1
+    
+
 
 - title: Experience
   type: time_table
