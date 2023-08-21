@@ -2,25 +2,32 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral researcher within the <a href='https://www.mech.kuleuven.be/en/pma/research/robotics'>Robotics Research Group</a> at <a href='https://www.kuleuven.be'>KU Leuven</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>556 your office number</p>
+    <p>Department of Mechanical Engineering</p>
     <p>Celestijnenlaan 300</p>
     <p>3001 Leuven, Belgium</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I obtained my MSc and PhD degrees in Mechanical Engineering from KU Leuven, Belgium, in 2013 and 2018, respectively. During my PhD research, I focused on trajectory learning, recognition, and generalization in robot programming by demonstration, which was achieved by integrating concepts from differential geometry, screw theory, and optimal control. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently working in the [Robotgenskill project](https://robotgenskill.pages.gitlab.kuleuven.be/) which focusses on the generalization of human-demonstrated robot skills. The project is an ERC Advanced Grant, led by [Prof. Joris De Schutter](https://www.kuleuven.be/wieiswie/en/person/00011419), proposed based on the preliminary results obtained in my doctoral research.
+
+***
+
+I am co-promotor of two PhD candidates within the [Robotgenskill project](https://robotgenskill.pages.gitlab.kuleuven.be/):
+- [Arno Verduyn](http://www.kuleuven.be/wieiswie/en/person/0140902): Analysis and generalization of human-demonstrated skills using coordinate-invariant shape descriptors
+- [Riccardo Burlizzi](http://www.kuleuven.be/wieiswie/en/person/0148800): Using invariant theory to extend the generalization capabilities of robot learning from demonstration methodologies
+
+My current research interests include intent estimation, trajectory generation, and reactive control in human-robot interaction.

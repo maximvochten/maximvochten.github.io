@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: Software
 description: Selection of developed software
-nav: true
+nav: false
 nav_order: 3
 ---
 
