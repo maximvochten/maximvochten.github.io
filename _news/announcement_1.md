@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Arno Verduyn will present our paper on [trajectory generation for robotic paint spraying](https://robotgenskill.pages.gitlab.kuleuven.be/papers/CASE2023_prorob_paper_preprint.pdf) at the upcoming IEEE CASE conference in Auckland, New Zealand, on 27 August 2023.
+Arno Verduyn will present our paper on [trajectory generation for robotic spray painting](https://robotgenskill.pages.gitlab.kuleuven.be/papers/CASE2023_prorob_paper_preprint.pdf) at the upcoming IEEE CASE conference in Auckland, New Zealand, on 28 August 2023.
