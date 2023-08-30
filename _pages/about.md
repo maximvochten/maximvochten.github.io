@@ -26,8 +26,8 @@ I am currently working in the [Robotgenskill project](https://robotgenskill.page
 
 ***
 
-I am co-promotor of two PhD candidates within the [Robotgenskill project](https://robotgenskill.pages.gitlab.kuleuven.be/):
-- [Arno Verduyn](http://www.kuleuven.be/wieiswie/en/person/0140902): Analysis and generalization of human-demonstrated skills using coordinate-invariant shape descriptors
-- [Riccardo Burlizzi](http://www.kuleuven.be/wieiswie/en/person/0148800): Using invariant theory to extend the generalization capabilities of robot learning from demonstration methodologies
+I am co-promotor of two PhD candidates:
+- [Arno Verduyn](http://www.kuleuven.be/wieiswie/en/person/0140902): *Analysis and generalization of human-demonstrated skills using coordinate-invariant shape descriptors*
+- [Riccardo Burlizzi](http://www.kuleuven.be/wieiswie/en/person/0148800): *Using invariant theory to extend the generalization capabilities of robot learning from demonstration methodologies*
 
 My current research interests include intent estimation, trajectory generation, and reactive control in human-robot interaction.
