@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral researcher within the <a href='https://www.mech.kuleuven.be/en/pma/research/robotics'>Robotics Research Group</a> at <a href='https://www.kuleuven.be'>KU Leuven</a>.
+subtitle: Robotics Researcher within the <a href='https://www.mech.kuleuven.be/en/pma/research/robotics'>Robotics Research Group</a> at <a href='https://www.kuleuven.be'>KU Leuven</a>.
 
 profile:
   align: right
