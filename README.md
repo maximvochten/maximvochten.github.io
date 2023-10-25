@@ -4,6 +4,10 @@ Follow the Jekyll installation guide to install Ruby and Jekyll.
 
 Comment mini_racer in Gemfile (has something to do with diagrams in posts)
 
+Track performance of website using:
+- google search console
+- google analytics
+
 # Contents
 
 - **_config.yml**: configuratie site
