@@ -19,6 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+## About me
 
 I obtained my MSc and PhD degrees in Mechanical Engineering from KU Leuven, Belgium, in 2013 and 2018, respectively. During my PhD research, I focused on trajectory learning, recognition, and generalization in robot programming by demonstration, which was achieved by integrating concepts from differential geometry, screw theory, and optimal control. 
 
@@ -30,7 +31,7 @@ I am co-promotor of two PhD candidates:
 - [Arno Verduyn](http://www.kuleuven.be/wieiswie/en/person/0140902): *Analysis and generalization of human-demonstrated skills using coordinate-invariant shape descriptors*
 - [Riccardo Burlizzi](http://www.kuleuven.be/wieiswie/en/person/0148800): *Using invariant theory to extend the generalization capabilities of robot learning from demonstration methodologies*
 
-My current research interests include intent estimation, trajectory generation, and reactive control in human-robot interaction.
+My research interests include intent estimation, trajectory generation, and reactive control in human-robot interaction.
 
 In my research I make use of the following specialized software tools: [eTaSL](https://etasl.pages.gitlab.kuleuven.be/), [CasADi](https://web.casadi.org/),  [ROS](https://www.ros.org/), [Orocos](https://orocos.org/)
 
