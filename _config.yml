@@ -8,7 +8,7 @@ middle_name:
 last_name: Vochten
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Maxim Vochten is a Robotics Researcher at KU Leuven.
+  Robotics Researcher at KU Leuven.
 footer_text: >
   
 keywords: maxim vochten, maxim, vochten, robotics, researcher, invariants, invariant, invariant descriptor, invariant trajectory descriptor, invariant representation, optimal control, optimization, differential geometry, trajectory generation, screw theory  # add your own keywords or leave empty
@@ -24,10 +24,6 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
-
-# code highlighter theme
-highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
 repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
@@ -87,7 +83,7 @@ osf_id: # your OSF ID
 research_gate_profile: Maxim-Vochten # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: https://www.kuleuven.be/wieiswie/nl/person/00091864 # work page URL
+work_url: https://www.kuleuven.be/wieiswie/en/person/00091864 # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
@@ -103,6 +99,7 @@ facebook_id: # your facebook id
 youtube_id: maximvochten5222 # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
+wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
   You can reach me by email at maxim(dot)vochten(at)kuleuven(dot)be.
@@ -121,9 +118,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Maxim Vochten's blog # blog_name will be displayed in your blog page
+blog_name: Maxim Vochten # blog_name will be displayed in your blog page
 blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
-blog_description: blog of Maxim Vochten
+blog_description: for disseminating knowledge
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -138,17 +135,15 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  # repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-  # repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
-  # category: Comments             # name of the category under which discussions will be created
-  # category_id: DIC_kwDOA5PmLc4CTBt6
-  # mapping: title                 # identify discussions by post title
-  # strict: 1                      # use strict identification mode
-  # reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  # input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-  # theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
-  # emit_metadata: 0
-  # lang: en
+  repo:                          # <your-github-user-name>/<your-github-repo-name>
+  category: Comments             # name of the category under which discussions will be created
+  mapping: title                 # identify discussions by post title
+  strict: 1                      # use strict identification mode
+  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
+  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
+  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
+  emit_metadata: 0
+  lang: en
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: # put your disqus shortname
@@ -239,6 +234,9 @@ defaults:
     values:
       sitemap: false
 
+sass:
+  style: compressed
+
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
@@ -297,9 +295,10 @@ scholar:
   group_by: year
   group_order: descending
 
-badges: # Display different badges for your publications
-  altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
+# Display different badges withs stats for your publications
+enable_publication_badges:
+  altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
@@ -308,6 +307,8 @@ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, select
 max_author_limit: 8  # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
+# Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
+enable_publication_thumbnails: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
@@ -374,19 +375,8 @@ enable_progressbar:         true   # enables a horizontal progress bar linked to
 # Library versions
 # -----------------------------------------------------------------------------
 
-academicons:
-  version: "1.9.1"
-  integrity: "sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg="
-bootstrap:
-  version: "4.6.1"
-  integrity:
-    css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
-    js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
 bootstrap-table:
-  version: "1.21.4"
-fontawesome:
-  version: "6.4.0"
-  integrity: "sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8="
+  version: "1.22.1"
 jquery:
   version: "3.6.0"
   integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="

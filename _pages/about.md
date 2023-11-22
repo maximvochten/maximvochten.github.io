@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>Department of Mechanical Engineering</p>
     <p>Celestijnenlaan 300</p>
     <p>3001 Leuven, Belgium</p>
@@ -27,7 +27,7 @@ I am currently working in the [Robotgenskill project](https://robotgenskill.page
 
 ***
 
-I am co-promotor of two PhD candidates:
+I am the co-promotor of two PhD candidates:
 - [Arno Verduyn](http://www.kuleuven.be/wieiswie/en/person/0140902): *Analysis and generalization of human-demonstrated skills using coordinate-invariant shape descriptors*
 - [Riccardo Burlizzi](http://www.kuleuven.be/wieiswie/en/person/0148800): *Using invariant theory to extend the generalization capabilities of robot learning from demonstration methodologies*
 
