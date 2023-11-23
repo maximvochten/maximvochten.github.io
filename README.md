@@ -1,8 +1,10 @@
 # Installation
 
-Follow the Jekyll installation guide to install Ruby and Jekyll.
+**Do not** try to install locally on Windows. Multiple problems: imagemagick error, .exe file permissions (jupyter), rubygems in wrong location, etc...
 
-Comment mini_racer in Gemfile (has something to do with diagrams in posts)
+Instead use docker. 
+
+# Track
 
 Track performance of website using:
 - google search console
@@ -27,16 +29,4 @@ Track performance of website using:
 - **_site**: gegenereerde site
 - **_sass**: css files
 - **reports**: svg files
-
-
-# Run locally
-
-Open Anaconda Prompt to get access to Python.
-
-(Admin mode might be needed in case of error)
-
-Navigate to directory and run:
-
-	bundle exec jekyll serve --lsi
-
 
