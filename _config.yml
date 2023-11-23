@@ -8,10 +8,10 @@ middle_name:
 last_name: Vochten
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Robotics Researcher at KU Leuven.
+  Biography and research interests of Maxim Vochten, a Robotics Researcher at KU Leuven in Belgium.
 footer_text: >
   
-keywords: maxim vochten, maxim, vochten, robotics, researcher, invariants, invariant, invariant descriptor, invariant trajectory descriptor, invariant representation, optimal control, optimization, differential geometry, trajectory generation, screw theory  # add your own keywords or leave empty
+keywords: maxim vochten, vochten, vochten KU Leuven, maxim vochten KU Leuven, robotics researcher, invariants, invariant, invariant descriptor, invariant trajectory descriptor, invariant representation, differential geometry, trajectory generation, screw theory, trajectory recognition, trajectory prediction, rigid-body trajectory, rigid-body motion  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🦾 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
