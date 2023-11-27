@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Maxim
 middle_name: 
 last_name: Vochten
@@ -69,7 +69,7 @@ github_username: maximvochten # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: maximvochten # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: maxim-vochten-63965547 # your LinkedIn user name
+linkedin_username: maximvochten # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: d1hglOMAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
