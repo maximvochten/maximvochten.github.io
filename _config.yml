@@ -8,7 +8,7 @@ middle_name:
 last_name: Vochten
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Biography and research interests of Maxim Vochten, a Robotics Researcher at KU Leuven in Belgium.
+  Maxim Vochten is a Postdoctoral Research Associate within the Robotics Research Group at KU Leuven in Belgium. His research interests include learning by demonstration, optimal control and screw theory to support the programming of robots interacting with humans.
 footer_text: >
   
 keywords: maxim vochten, vochten, vochten KU Leuven, maxim vochten KU Leuven, robotics researcher, invariants, invariant, invariant descriptor, invariant trajectory descriptor, invariant representation, differential geometry, trajectory generation, screw theory, trajectory recognition, trajectory prediction, rigid-body trajectory, rigid-body motion  # add your own keywords or leave empty
@@ -339,6 +339,7 @@ imagemagick:
     - ".jpeg"
     - ".png"
     - ".tiff"
+    - ".svg"
   output_formats:
     webp: "-resize 800x"
 

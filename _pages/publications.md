@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Selected articles and papers presented at international conferences.
+description: Selected list of publications.
 nav: true
 nav_order: 1
 ---
