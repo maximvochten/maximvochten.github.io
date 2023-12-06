@@ -4,3 +4,33 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"TRO":
+  color: "#f92080"
+
+"CASE":
+  color: "#00369f"
+
+"IROS":
+  color: "#00369f"
+
+"PLOS":
+  color: "#f92080"
+
+"RAL":
+  color: "#f92080"
+
+"RAS":
+  color: "#f92080"
+
+"ICUAS":
+  color: "#00369f"
+
+"PhD":
+  color: "#009f06"
+
+"HFR":
+  color: "#00369f"
+
+"ICRA":
+  color: "#00369f"
