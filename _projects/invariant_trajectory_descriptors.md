@@ -8,6 +8,7 @@ category: work
 related_publications: einstein1956investigations, einstein1950meaning
 giscus_comments: true
 redirect:  #url
+published: false
 ---
 
 Every project has a beautiful feature showcase page.
