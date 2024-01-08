@@ -11,26 +11,18 @@ redirect:  #url
 published: false
 ---
 
+From 2014 to 2017 I organized hands-on workshops for building and programming an autonomous mobile robot on a voluntary basis while part of IEEE Student Branch Leuven. These workshops were offered to Engineering Students at KU Leuven as an extracurricular activity. At the end of each academic year I organized a Sumo Robot Competition in which teams of students could participate to win various prizes sponsored by IEEE.
 
-From 2016-2018, I organized a series of workshops for Bachelor students to build their own sumo robot and compete in a tourney 
+This page intends to gather slides and information for those who are interested in building their own sumo robot.
 
-Below you can find pictures and videos of the event.
+Workshop topics:
+- "Brains": how to program an Arduino microprocessor 
+- "Eyes":  how to read out values from optical and distance sensors
+- "Muscles": how to control a DC motor
+- "Body": how to manufacture a hardware frame using a laser cutter
+- "Mind": how to implement a robot control strategy
 
-
-
-- "Brains" - programming with Arduino. link-to-slides 
-- "Eyes" - 
-- "Muscles" - 
-- "Body" 
-- " " - advanced programming
-
-
-
-
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Photos and videos of the event:
 
 {% raw %}
 ```python
