@@ -4,6 +4,24 @@
 
 Instead use docker. 
 
+# Custom changes
+
+1. includes/projects_horizontal.liquid : remove text-lowercase from card-title
+
+2. includes/projects.liquid : remove text-lowercase from card-title
+
+3. sass_base.scss : 
+/* Bib type style */
+p.bibtitle {
+	color: var(--global-theme-color);
+    	font-weight: 400;
+    	font-size: 1.5em;
+    	text-align: center;
+    	border-bottom: 1px solid #bbb;
+}
+
+4. In about.liquid : News | Latest posts | Recent publications 
+
 # Track
 
 Track performance of website using:
