@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Department of Mechanical Engineering</p>
     <p>Celestijnenlaan 300</p>
-    <p>3001 Leuven, Belgium</p>
+    <p>3001 Leuven, Belgium.</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
