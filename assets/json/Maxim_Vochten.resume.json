@@ -1,0 +1,240 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Maxim Vochten",
+    "label": "Robotics Researcher and Engineer at KU Leuven | PhD",
+    "image": "",
+    "email": "maxim.vochten@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "I am a robotics researcher and engineer with ten years of experience, holding a PhD in Mechanical Engineering from KU Leuven. \n\nMy background is in numerical optimization, optimal control, theoretical kinematics, machine learning, robot control, dynamical systems, motion planning and estimation. \n\nI am interested in research opportunities enabling me to work with talented people on innovative ideas and applications.\n\nVisit my website for more information: https://maximvochten.github.io/",
+    "location": {
+      "countryCode": "US",
+      "address": "Belgium"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "maximvochten",
+        "url": "https://www.linkedin.com/in/maximvochten/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "KU Leuven",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2018-09-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "I am currently a Postdoc within the Robotics Research Group at the Department of Mechanical Engineering, KU Leuven.\n\nI have been mainly involved in the ERC Advanced Grant ROBOTGENSKILL of Prof. Joris De Schutter, which continues on the research that I did in my PhD. The project's aim was to improve the generalization of human-demonstrated robot skills using invariant representations of the skill. My main research contributions in the project were:\n   1. Proposal of invariant representations for force trajectories, making it possible to learn contact tasks in addition to pure motion tasks\n   2. Implementing receding-window optimization formulations of our invariant methods and integrating them with a reactive robot control framework, bringing our methods closer to real applications.\n   3. Developing practical applications of our methods using real robot manipulator platforms, both in free space (e.g. human-robot object handover) and in contact (e.g. contour tracking). \n   4.  Creating and documenting Python and Matlab software toolboxes that implement our developed methodology.\n\nThis research resulted in several papers in prestigious journals in robotics, and was also presented at the top international conference in robotics.\n\nOther responsibilities:\n- Acting as co-promotor for two PhD researchers within the project\n- Supervision of 10+ master thesis students\n- Scheduling and leading the regular project meetings with the whole team\n- Creating and maintaining the project website\n- Coordinating the efforts of the KU Leuven team within another project, the Flanders Make ICON project PROROB on programming robot tasks in virtual reality (2021-2022).\n- Allocation of didactical tasks among teaching assistants within the division of automation of the department (2019-2023).",
+      "url": "https://www.linkedin.com/company/3629",
+      "location": null
+    },
+    {
+      "name": "KU Leuven",
+      "position": "Doctoral Researcher",
+      "startDate": "2013-08-31",
+      "endDate": "2018-09-30",
+      "highlights": [],
+      "summary": "I completed my PhD as part of the Robotics Research Group at the Department of Mechanical Engineering, KU Leuven.\n \nThe topic of my research was on improving the generalization capabilities of motion models in human action recognition and robot learning by demonstration using invariant trajectory representations.  The main contributions were (1) proposing a taxonomy of newly proposed and existing invariant descriptors; and (2) the  use of geometric optimal control to achieve robust calculation of invariants and improve the generalization capabilities of the invariants. This research proved useful to learn invariant models for skill recognition and generation with less data than conventional models.\n\nThese results were published and presented at the top two international conferences in the field of robotics.\n\nIn the summer of 2014, I did a side project on \"time-optimal motion planning under uncertainty for a mobile robot\" for Flanders' Mechatronics Technology Centre (FMTC), now part of Flanders Make.\n\nBesides research, I was also a teaching assistant during this time for the course of Applied Mechanics 3 and the course of Mechanisms and Vibration (Bachelor of Mechanical Engineering, KU Leuven). In addition, I supervised three master thesis students.",
+      "url": "https://www.linkedin.com/company/3629",
+      "location": "Leuven"
+    },
+    {
+      "name": "Agis Consulting",
+      "position": "Student Job",
+      "startDate": "2012-07-31",
+      "endDate": "2012-09-30",
+      "highlights": [],
+      "summary": "Created a website with different leadership and management tests for assessing candidates, with automatic report generation.",
+      "url": "https://www.linkedin.com/company/2385753",
+      "location": null
+    },
+    {
+      "name": "Agis Consulting",
+      "position": "Student Job",
+      "startDate": "2010-08-31",
+      "endDate": "2010-09-30",
+      "highlights": [],
+      "summary": "Developed a software application to automatically process and report on leadership and management test results, which streamlined the company's recruitment services.",
+      "url": "https://www.linkedin.com/company/2385753",
+      "location": null
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "IEEE Student Branch Leuven",
+      "position": "Organizer of Technical Workshops and Events",
+      "startDate": "2014-09-30",
+      "endDate": "2017-08-31",
+      "summary": "As part of a two-person team, I organized hands-on workshops for building and programming an autonomous mobile robot from scratch. These workshops were offered and promoted to engineering students as an extracurricular activity. At the end of each academic year I organized a Sumo Robot Competition in which teams of students could participate to win various prizes. The workshops and prizes were sponsored by IEEE.",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "KU Leuven",
+      "area": "Mechanical Engineering",
+      "studyType": "Doctor of Philosophy - PhD",
+      "startDate": "2013-12-31",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Katholieke Universiteit Leuven",
+      "area": "Mechanical Engineering with a minor in Computer Science",
+      "studyType": "Bachelor's degree",
+      "startDate": "2008-12-31",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Katholieke Universiteit Leuven",
+      "area": "Mechanical Engineering, option Mechatronics and Robotics",
+      "studyType": "Master's degree",
+      "startDate": "2011-12-31",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Sint-Ritacollege (Kontich)",
+      "area": "Grieks-Wiskunde",
+      "studyType": "ASO diploma",
+      "startDate": "2002-12-31",
+      "endDate": "2008-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best paper award 14th International Workshop on Human-Friendly Robotics 2021",
+      "date": "2021-10-31",
+      "awarder": "Franka Emika",
+      "summary": "The paper's topic was \"Specification and Control of Human-Robot Handovers using Constraint-Based Programming\". The experimental results originated from a master thesis (Jeroen Lambeau & Ken Meylemans) that I supervised.\n\nLink to paper: https://lirias.kuleuven.be/retrieve/664681"
+    },
+    {
+      "title": "Finalist KUKA Innovation Award 2016",
+      "date": "2016-04-30",
+      "awarder": "KUKA",
+      "summary": "The 2016 KUKA Innovation Award was an international competition focused on innovative robotic applications for flexible manufacturing. KU Leuven was selected as one of the six finalists from 25 submissions. During the competition, our team developed an automated kitting system intended for the automotive industry. The system utilized a robot to locate, pick up, and place work pieces in a tray, adapting to changes in the environment and human interaction.\n\nWithin the team, I was responsible for the 3D vision system, which detected and estimated the position of objects on the table and identified the presence of a human operator. Additionally, I presented and demonstrated the application to the general public and jury throughout the 5-day Hannover Messe event."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robotics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Control Theory",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mechanics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robot Operating System (ROS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robot Control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mechatronics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Numerical Simulation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LaTeX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Optimization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robot Programming",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
