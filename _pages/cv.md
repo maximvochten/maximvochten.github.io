@@ -11,11 +11,11 @@ published: true
 
 ### Short biography
 
-I was born on August 2, 1990 in Wilrijk, Antwerp, Belgium. I obtained the MSc and PhD degrees in Mechanical Engineering from KU Leuven, Belgium, in 2013 and 2018, respectively.
+I was born on August 2, 1990 in Antwerp (Wilrijk), Belgium. I obtained the MSc and PhD degrees in Mechanical Engineering from KU Leuven, Belgium, in 2013 and 2018, respectively.
 
-During my PhD at KU Leuven from 2013 till 2018, I worked on novel trajectory representations for data-efficient learning from human demonstrations applied to motion recognition and robot trajectory generation, under supervision of Prof. Joris De Schutter in the Robotics Research Group at the Department of Mechanical Engineering in Leuven. 
+During my PhD at KU Leuven from 2013 till 2018, I worked on novel trajectory representations for data-efficient learning from human demonstrations with application to motion recognition and robot trajectory generation. This was under supervision of Prof. Joris De Schutter in the Robotics Research Group at the Department of Mechanical Engineering in Leuven. 
 
-From 2018 till 2024, I was a Postdoctoral Researcher at KU Leuven working on the ROBOTGENSKILL project, which was an ERC Advanced Grant of Prof. Joris De Schutter that was proposed based on the results of the PhD. This enabled me the opportunity to bring the conceptual results of my thesis work closer to practical robot applications as part of a team of around ten researchers.
+From 2018 till 2024, I was a Postdoctoral Researcher at KU Leuven working on the ROBOTGENSKILL project, which was an ERC Advanced Grant of Prof. Joris De Schutter that was proposed based on the results of the PhD. This enabled me the opportunity to bring the conceptual results of my thesis work to practical robot applications as part of a team of around ten researchers.
 
 ### CV download
 
