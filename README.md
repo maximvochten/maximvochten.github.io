@@ -22,6 +22,8 @@ p.bibtitle {
 
 4. In about.liquid : News | Latest posts | Recent publications 
 
+5. custom layout of cv page: _layouts/cv_maxim.liquid
+
 # Track
 
 Track performance of website using:
