@@ -23,10 +23,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Postdoctoral Research Associate within the <a href='https://www.mech.kuleuven.be/en/pma/research/robotics'>Robotics Research Group</a> at <a href='https://www.kuleuven.be'>KU Leuven</a>. My research interests include learning by demonstration, optimal control, screw theory and estimation to support the programming of robots in interaction with humans.
 
-## Biography
-
-I obtained my MSc and PhD degrees in Mechanical Engineering from KU Leuven, Belgium, in 2013 and 2018, respectively. During my PhD research, I focused on trajectory learning, recognition, and generalization in robot programming by demonstration, which was achieved by integrating concepts from differential geometry, screw theory, and optimal control. 
-
 I am currently working in the [Robotgenskill project](https://robotgenskill.pages.gitlab.kuleuven.be/) which focusses on the generalization of human-demonstrated robot skills. The project is an ERC Advanced Grant, led by [Prof. Joris De Schutter](https://www.kuleuven.be/wieiswie/en/person/00011419), which was proposed based on the preliminary results obtained in my doctoral research.
 
 ## Students
