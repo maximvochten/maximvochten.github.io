@@ -21,7 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 ## About
 
-I am a Postdoctoral Research Associate within the <a href='https://www.mech.kuleuven.be/en/pma/research/robotics'>Robotics Research Group</a> at <a href='https://www.kuleuven.be'>KU Leuven</a>. My main aim in research is to improve the collaboration between humans and robots by formulating data-efficient task representations that can be used for human intent recognition and for the fast programming of reactive robot motions. To achieve this aim, I combine concepts from numerical optimization, optimal control, differential geometry, screw theory, 3D kinematics, state estimation and robot control.
+I am a Postdoctoral Research Associate within the [Robotics Research Group](https://www.mech.kuleuven.be/en/pma/research/robotics) at [KU Leuven](https://www.kuleuven.be). 
+
+My main aim in research is to improve the collaboration between humans and robots by formulating data-efficient task representations that can be used for human intent recognition and for the fast programming of reactive robot motions. To achieve this, I combine concepts from numerical optimization, optimal control, differential geometry, screw theory, 3D kinematics, state estimation and robot control.
 
 I am currently working on the [Robotgenskill project](https://robotgenskill.pages.gitlab.kuleuven.be/) which focuses on the generalization of human-demonstrated robot skills.
 
