@@ -4,11 +4,11 @@ permalink: /publications/
 title: Publications
 description: 
 sections:
-  - bibquery: "@article[doi]"
+  - bibquery: "@article[doi,bibtex_show=true]"
     text: "Journal articles"
-  - bibquery: "@inproceedings[doi]"
+  - bibquery: "@inproceedings[doi,bibtex_show=true]"
     text: "Conference papers"
-  - bibquery: "@inproceedings[comment=workshop]"
+  - bibquery: "@inproceedings[comment=workshop,bibtex_show=true]"
     text: "Workshop papers and dissemination"
   - bibquery: "@phdthesis"
     text: "Thesis"
