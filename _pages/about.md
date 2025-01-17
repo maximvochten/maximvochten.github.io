@@ -9,9 +9,9 @@ profile:
   image: prof_pic_square.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Mechanical Engineering,</p>
-    <p>Celestijnenlaan 300,</p>
-    <p>3001 Leuven, Belgium.</p>
+    <p>Department of Mechanics,</p>
+    <p>Avenue De La Renaissance 30,</p>
+    <p>1000 Brussels, Belgium.</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,21 +21,29 @@ social: true  # includes social icons at the bottom of the page
 
 ## About
 
-I am a Postdoctoral Research Associate within the [Robotics Research Group](https://www.mech.kuleuven.be/en/pma/research/robotics) at [KU Leuven](https://www.kuleuven.be). 
+I am a Senior Researcher within the [Robotics & Autonomous Systems unit](https://mecatron.rma.ac.be/) at the [Royal Military Academy](https://www.rma.ac.be/en) (RMA), Belgium.
 
-My main aim in research is to improve the collaboration between humans and robots by formulating data-efficient task representations that can be used for human intent recognition and for the fast programming of reactive robot motions. To achieve this, I combine concepts from numerical optimization, optimal control, differential geometry, screw theory, 3D kinematics, state estimation and robot control.
+I lead the team at RMA within the European Defense Funds project [GENIUS](https://mecatron.rma.ac.be/index.php/projects/genius/) on robotic demining. 
 
-I am currently working on the [Robotgenskill project](https://robotgenskill.pages.gitlab.kuleuven.be/) which focuses on the generalization of human-demonstrated robot skills.
+## Robot demining
 
-## Students
+In the [GENIUS](https://mecatron.rma.ac.be/index.php/projects/genius/) project on robotic demining, we research robotic technologies that can improve the speed and safety of detecting and disposing of land mines.
 
-I am the co-promotor of two PhD candidates:
-- [Arno Verduyn](http://www.kuleuven.be/wieiswie/en/person/0140902). Topic: Analysis, recognition and generalization of human-demonstrated skills using invariant trajectory representations
-- [Riccardo Burlizzi](http://www.kuleuven.be/wieiswie/en/person/0148800). Topic: Data augmentation in robot learning from demonstration using invariant trajectory representations
+## Invariant trajectory representations
 
-I have mentored and co-supervised over 15 master thesis students in the Master of Mechanical Engineering programme (and the Master of Artificial Intelligence programme) at KU Leuven.
+From 2018-2024, I was mainly active on the [Robotgenskill project](https://robotgenskill.pages.gitlab.kuleuven.be/) which focuses on the generalization of human-demonstrated robot skills. The main aim was to develop techniques to learn data-efficient task representations from sparse human demonstrations by exploiting coordinate-invariant properties in the recorded trajectory data. The resulting coordinate-invariant models can be used for human intent recognition, as well as trajectory generation on the robot from the invariant motion template.
 
-## Software
+### PhD supervision
+
+Within the context of the Robotgenskill project, I was the co-promotor of two PhD candidates:
+- [Arno Verduyn](http://www.kuleuven.be/wieiswie/en/person/0140902) (2020-2025): Analysis, recognition and generalization of human-demonstrated skills using invariant trajectory representations. KU Leuven.
+- [Riccardo Burlizzi](http://www.kuleuven.be/wieiswie/en/person/0148800) (2021-2025): Data augmentation in robot learning from demonstration using invariant trajectory representations. KU Leuven.
+
+### Master thesis supervision
+
+During my PhD and PostDoc at KU Leuven, I have mentored and co-supervised over 15 master thesis students in the Master of Mechanical Engineering programme (and the Master of Artificial Intelligence programme).
+
+### Software
 
 For my research on invariant trajectory descriptors, I am developing software packages in Matlab and Python: [invariants_mat](https://github.com/maximvochten/invariants_mat) and [invariants_py](https://github.com/maximvochten/invariants_py).  These packages support the robust numerical calculation of invariant descriptors and also support the generation of trajectories in an invariant way. A corresponding documentation website is being developed: [Trajectory Invariants](https://trajectory-invariants.github.io/).
 
