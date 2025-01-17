@@ -1,8 +1,17 @@
 # Installation
 
-**Do not** try to install locally on Windows. Multiple problems: imagemagick error, .exe file permissions (jupyter), rubygems in wrong location, etc...
+**Do not try to install locally on Windows**. Multiple problems: imagemagick error, .exe file permissions (jupyter), rubygems in wrong location, etc...
 
-Instead use docker. 
+Instead use Docker. 
+
+# Locally testing website
+
+Open Terminal:
+- start http://localhost:8080/
+- docker compose pull
+- docker compose up
+
+Or run `windows_test_local.sh`
 
 # Custom changes
 

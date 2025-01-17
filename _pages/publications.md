@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A selected list of publications I authored.
+description: 
 sections:
   - bibquery: "@article[doi]"
     text: "Journal articles"
@@ -16,7 +16,7 @@ nav: true
 nav_order: 1
 ---
 
-See my [Google Scholar profile](https://scholar.google.be/citations?user=d1hglOMAAAAJ&hl=en]) for a more complete overview.
+Below you can find a selected list of publications I (co-)authored. Please visit my [Google Scholar profile](https://scholar.google.be/citations?user=d1hglOMAAAAJ&hl=en]) for a more complete overview.
 
 <div class="publications">
 
