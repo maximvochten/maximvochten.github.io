@@ -8,11 +8,11 @@ middle_name:
 last_name: Vochten
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Maxim Vochten is a Senior Researcher within the Robotics and Autonomous Systems unit at the Royal Military Academy in Brussel, Belgium. 
+  Maxim Vochten is a researcher and team lead in robotics and autonomous systems at the Royal Military Academy in Brussels, Belgium. His work spans research leadership, robot learning, manipulation and field autonomy.
 footer_text: >
 # His research interests include learning by demonstration, optimal control and screw theory to support the programming of robots interacting with humans.
   
-keywords: maxim vochten, vochten, maxim, demining, vochten KU Leuven, maxim vochten KU Leuven, robotics researcher, invariants, invariant, invariant descriptor, invariant trajectory descriptor, invariant representation, differential geometry, trajectory generation, screw theory, trajectory recognition, trajectory prediction, rigid-body trajectory, rigid-body motion  # add your own keywords or leave empty
+keywords: maxim vochten, robotics research, autonomous systems, research leadership, research supervision, robot learning, robot manipulation, shared autonomy, learning from demonstration, demining, KU Leuven, Royal Military Academy, invariant trajectory descriptors
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🦾 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
